@@ -1,5 +1,5 @@
 # COMP2001
-COMP2001 Coursework Repo
+<i><u>COMP2001 Coursework Repo</i></u>
 
 <b>This repostitry contains all my personal work for the COMP2001 Module.</b>
 
